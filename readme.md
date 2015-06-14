@@ -10,3 +10,7 @@ Creating the database:
 Running project:
 
     python manage.py runserver
+
+test:
+
+    python manage.py test zipcode
